@@ -30,6 +30,9 @@ As seen above, much preparation and planning should go into drafting your RFP. W
 
 *Are you new to the RFP drafting process? Read over our RFP Checklist. Then, download our sample RFP templates, which were created specifically for Federal, State, and Local Municipalities.  
 
+## Repo of Existing Drupal RFPs
+https://docs.google.com/document/d/15wzUp9hdSd_ciyBvR6u2Tb_UcJtjaNMxkg6bfWNSg6Y/edit?usp=sharing
+
 ## Shameless sales pitch
 Can't wait to get an RFP out? Do you need quick Drupal support? Learn more about our [Drupal development services](https://fruition.net/service/drupal/), support, architecture and hosting services. 
 
