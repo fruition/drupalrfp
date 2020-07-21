@@ -29,6 +29,10 @@ Save time: A well-written RFP should answer most questions that respondents may 
 
 Are you new to the RFP drafting process? Read over our RFP Checklist. Then, download our sample RFP templates, which were created specifically for Federal, State, and Local Municipalities.  
 
+##Shameless sales pitch
+Can't wait to get an RFP out? Do you need quick Drupal support? Learn more about our [Drupal development services](https://fruition.net/service/drupal/), support, architecture and hosting services. 
+
+© Fruition Growth, LLC.
 
 
 
