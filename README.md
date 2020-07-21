@@ -18,7 +18,7 @@ Create a timeline: Sharing your ideal timeline can help agencies know if your pr
 Draft your RFP: Once you’ve gathered all the relevant information, draft your RFP. Make sure all key stakeholders have the chance to review and provide feedback.
 Issue your RFP: If all stakeholders sign off on the draft, it’s time to issue your RFP and start gathering, reviewing, and evaluating responses. 
 
-##Why A Well-Drafted RFP Is Crucial To Your Project’s Success 
+## Why A Well-Drafted RFP Is Crucial To Your Project’s Success 
 As seen above, much preparation and planning should go into drafting your RFP. While this may seem time consuming, a well-crafted RFP benefits your organization in many ways: 
 
 Make the decision-making process easier: By explaining the features, functionality, and use cases of your Drupal site in depth, you’ll receive more comprehensive proposals that will make it easier for you to tell which company can best meet your needs 
@@ -29,7 +29,7 @@ Save time: A well-written RFP should answer most questions that respondents may 
 
 Are you new to the RFP drafting process? Read over our RFP Checklist. Then, download our sample RFP templates, which were created specifically for Federal, State, and Local Municipalities.  
 
-##Shameless sales pitch
+## Shameless sales pitch
 Can't wait to get an RFP out? Do you need quick Drupal support? Learn more about our [Drupal development services](https://fruition.net/service/drupal/), support, architecture and hosting services. 
 
 © Fruition Growth, LLC.
