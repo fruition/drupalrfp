@@ -4,10 +4,10 @@ We created this guide to simplify the RFP writing process for Federal, State and
 
 For government and nonprofit organizations, crafting the perfect Drupal Request For Proposal (RFP) ensures you find the perfect digital development agency to meet your institution’s needs. A well-written RFP communicates your need for services, explains the project scope and goals, and sets expectations for new partnerships. Read on to learn more about RFPs, the drafting process, and why a well-written RFP can streamline your next project. 
 
-##When To Issue An RFP 
+## When To Issue An RFP 
 RFPs are often used by government, municipality, or non profit organizations when an upcoming project can’t be completed in-house. Creating an RFP for a Drupal project can give your team the technical expertise and skill to add additional functionality, efficiency, and integrations to your site. Building or updating a Drupal site can be complex and highly specialized, so issuing a detailed RFP can help your organization identify the right team for your needs. 
 
-##Drafting Your RFP 
+## Drafting Your RFP 
 Before issuing your RFP to vendors, you and your team will need to carefully consider your needs. For best results, your organization should follow these steps: 
 Identify project leads and stakeholders: Gathering key stakeholders and identifying project leaders will guide the RFP drafting process and the project itself. As such, this team should have organizational experience and project-specific knowledge. Be sure to include stakeholders from every relevant department so you get a comprehensive understanding of your project’s impact.  
 
