@@ -1,5 +1,4 @@
-# Drupal RFP Writer
-## Drupal RFP Setup
+# Drupal RFP Repo
 We created this guide to simplify the RFP writing process for Federal, State and Local Municiplaities that require mission critical Drupal 8 and 9 support services. This repo is the framework for the calcuator and RFP wizard to pull in relevant language to your RFP without having to rewrite large chunks.
 
 For government and nonprofit organizations, crafting the perfect Drupal Request For Proposal (RFP) ensures you find the perfect digital development agency to meet your institution’s needs. A well-written RFP communicates your need for services, explains the project scope and goals, and sets expectations for new partnerships. Read on to learn more about RFPs, the drafting process, and why a well-written RFP can streamline your next project. 
