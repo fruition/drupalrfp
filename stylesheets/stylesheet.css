@@ -35,15 +35,15 @@ a {
   border-color: rgba(255, 255, 255, 0.3); }
 
 .btn-blue {
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(0, 141, 214, 1);
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(0, 141, 214, .8);
   border-color: rgba(255, 255, 255, 0.2);
   transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
 
 .btn-blue:hover {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(0, 0, 0, 0.8);
   text-decoration: none;
-  background-color: rgba(0, 141, 214, 0.2);
+  background-color: rgba(0, 141, 214, 0.4);
   border-color: rgba(255, 255, 255, 0.3); }
 
 @media screen and (min-width: 64em) {
